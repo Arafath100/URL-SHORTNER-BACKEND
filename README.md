@@ -22,14 +22,14 @@ This backend server provides essential functionality for URL shortening, user au
 
 1. Clone the repository:
 
-     ```bash
-     git clone https://github.com/Arafath100/URL-SHORTNER-BACKEND.git
+   ```bash
+   git clone https://github.com/Arafath100/URL-SHORTNER-BACKEND.git
 
 2. Install dependencies:
  
-     ```bash
-     cd url-shortener-backend
-     npm install
+    ```bash
+    cd url-shortener-backend
+    npm install
 
 ## Configuration
 
